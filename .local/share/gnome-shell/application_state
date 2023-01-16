@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" score="4" last-seen="1673505166"/>
+    <application id="org.gnome.Terminal.desktop" score="0" last-seen="1673505286"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1673505179"/>
+  </context>
+</application-state>
